@@ -1,0 +1,19 @@
+.flex-contanter{
+    display: flex;
+    background: #0ae0f0;
+    /* flex-direction: column-reverse; */
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+    /* justify-content: space-between; */
+
+}
+.flex-itam{
+    border: 2px solid #d772ad;
+    padding: 20px;
+    font-size: 30px;
+    margin: 15px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,19 @@
+p{
+    color: aqua;
+    text-align: justify;
+    text-transform: capitalize;
+    text-indent: 50px;
+    line-height: 2;
+}
+h3{
+    color: blueviolet;
+    text-decoration: underline;
+    letter-spacing:2px ;
+    word-spacing: 30px;
+    text-shadow: 3px 4px #104ca6 ;
+}
+ a{
+    color: #000;
+    text-decoration: none;
+  
+ }

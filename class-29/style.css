@@ -1,0 +1,25 @@
+h2{
+    font-size: 90px;
+    text-align: center;
+    text-shadow:-1px 0px red ,0px 2px  green,2px 0px #0b25ee ,0px -3px yellow;
+}
+.paranto{
+    width: 400px;
+    text-align: center;
+    border: 2px #333 solid;
+    margin: auto; 
+}
+.paranto img{
+    width:100%;
+}
+.low{
+    padding:10px;
+}
+.low h3{
+    font-size:30px;
+    text-transform: capitalize;
+    margin: 0px;
+}
+.paranto :hover{
+    box-shadow:-4px 0 #0b25ee,0 8px #23e218,10px 0px #ec0707,0 -6px #05fb0d;
+}

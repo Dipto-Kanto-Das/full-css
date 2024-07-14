@@ -1,0 +1,24 @@
+.box{
+    width: 250px;
+    height: 200px;
+    background: #0ff3fa;
+}
+h2{
+    font-size:50px;
+}
+@media screen and (max-width:980px) {
+    .box{
+        background: #1c12e5;
+    }
+}
+@media screen and (max-width:768px) {
+    .box{
+        background: #ec0f72;
+    }
+}
+ @media screen and (min-width:480px) and (max-width:768px) {
+  .box{
+    background: black;
+  }
+ }
+ 

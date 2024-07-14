@@ -1,0 +1,21 @@
+ul li {
+    background: #03f983;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+ul li {
+   float: left;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 0px 10px 20px 0px;
+    display: inline-block;
+
+}
+ul li a:hover{
+    color: rgb(241, 10, 207);
+
+}

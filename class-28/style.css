@@ -1,0 +1,6 @@
+.koli{
+    width:200px;
+    height:200px;
+    /* background: linear-gradient(#cd0af8,#05f1ca); */
+    background: radial-gradient(#cd0af8 10%,#05f1ca 30%,green 10%);
+}

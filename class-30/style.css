@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+.kuk{
+    width: 200px;
+    height: 200px;
+    background: #0ddfee;
+    border: 2px solid #eb08f3;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    margin: 25px auto;
+    /* transform:translateY(200px) ; */
+    /* transform:rotate(-60deg); */
+    /* transform:scaleX(2) ; */
+    transform:skew(20deg) ;
+   
+}

@@ -1,0 +1,18 @@
+/* h2{
+    text-align: center;
+   
+}
+samp{
+    text-align: center;
+    display: block;
+} */
+ h2{
+    display: inline-block;
+ }
+ samp{
+    text-align: center;
+    
+}
+ul,li{
+    display: inline;
+}

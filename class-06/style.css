@@ -1,0 +1,9 @@
+p{
+    margin: 50px;
+    border: 1px solid #666;
+    outline-width: 3px;
+    outline-style: dashed;
+    outline-color: aqua;
+    outline-offset: 23px;
+    border-radius: ;
+}

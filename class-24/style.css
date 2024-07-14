@@ -1,0 +1,18 @@
+ img:hover{
+    opacity: 0.5;
+}
+.bg{
+    width: 500px;
+    height: 350px;
+    background: url(./img/cat.jpg) no-repeat;
+    /* opacity: 0.5; */
+    overflow: hidden;
+}
+.box{
+    text-align: center;
+    background-color: aqua;
+    padding:30px;
+    opacity: 0.3;
+    margin-top:200px ;
+   
+}

@@ -1,0 +1,41 @@
+.green-box{
+    width: 600px;
+    height: 350px;
+    background-color:green;
+    position:relative;
+    /* position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto; */
+
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(236, 23, 26);
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    border-radius: 50%;
+}
+.m{
+    border: 3px solid #1639ae ;
+    padding: 5px;
+    margin: 10px;
+    background:#14db46;
+    position: sticky;
+    top: 0px;
+}
+p{
+    /* padding-bottom: 1000px; */
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 300px;
+    border: 2px solid green;
+}

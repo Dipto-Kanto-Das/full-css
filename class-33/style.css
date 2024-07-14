@@ -1,0 +1,32 @@
+img{
+    width:35%;
+    height:auto;
+    float: left;
+}
+.no{
+    filter: blur(2px);
+}
+.brit{
+    filter: brightness(150%);
+}
+.coll{
+    filter: contrast(1500%);
+}
+.yes{
+    filter:grayscale(1000%) ;
+}
+.done{
+    filter: invert(200%);
+}
+.kuk{
+    filter: opacity(50%);
+}
+.k{
+    filter: saturate(5%);
+}
+.ku{
+    filter: sepia(100%);
+}
+.uk{
+    filter: drop-shadow(8px 16px green);
+}

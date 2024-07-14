@@ -1,0 +1,23 @@
+a{
+    color: rgb(224, 239, 239);
+    font-family: tahoma;
+    font-size: 30px;
+    padding: 25px 35px;
+}
+a:link{
+    text-decoration: none;
+    background-color: black;
+
+}
+a:visited{
+    background-color: aqua;
+    color: rgb(21, 10, 234);
+}
+a:hover{
+    background-color: rgb(196, 227, 23);
+    color: aquamarine;
+}
+a:active{
+    background-color: green;
+    color: black;
+}

@@ -1,0 +1,7 @@
+.koli{
+    border-width: 5px 15px 20px 25px;
+    border-style: solid dotted dashed double;
+    border-color: aqua #111 #290bd2 #ab1010 ;
+    /* border:4px solid #999 ; */
+    border-radius:10px ;
+}

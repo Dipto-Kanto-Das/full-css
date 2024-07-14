@@ -1,0 +1,30 @@
+img{
+    width: 200px;
+    float:left;
+}
+p{
+    clear: both;
+    /* clear: right;
+    clear:left; */
+}
+.box{
+    background: rgb(16, 187, 187);
+    height: 200px;
+    width: 20%;
+    float: left;
+}
+.box1{
+    background-color: rgb(236, 236, 18);
+}
+.box2{
+    background-color: rgb(19, 194, 233);
+}
+.box3{
+    background-color: rgb(54, 190, 9);
+}
+.box4{
+    background-color: rgb(176, 28, 131);
+}
+.box5{
+    background-color: rgb(58, 16, 199);
+}
